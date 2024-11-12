@@ -1,1 +1,1 @@
-document.querySelector('.tecla_pom');
+let tecla_pom = document.querySelector('.tecla_pom');
