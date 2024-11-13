@@ -94,4 +94,5 @@ for (let contador = 0; contador < keyList.length; contador++) {
     tecla.onclick = function (){
         tocaSom(idAudio)
     }
+    
 }
